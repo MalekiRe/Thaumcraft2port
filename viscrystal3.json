@@ -1,0 +1,9 @@
+{
+  "parent": "tm:custom/viscrystal",
+  "textures": {
+    "all": "tm:blocks/vis_crystalblock",
+    "particle": "tm:blocks/vis_crystalblock",
+    "0": "tm:blocks/vis_crystalblock",
+    "missing": "tm:blocks/vis_crystalblock"
+  }
+}
